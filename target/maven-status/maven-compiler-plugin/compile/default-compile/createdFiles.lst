@@ -1,0 +1,4 @@
+Academy\E2EProject\App.class
+pageObjects\LandingPageObject.class
+resources\Base.class
+pageObjects\LoginPageObject.class
